@@ -1,0 +1,21 @@
+[submodule "comp/doc_assignment"]
+	path = comp/doc_assignment
+	url = https://github.com/kubicas/a6dead98da794bccb879c4ff650e8094/
+[submodule "comp/doc_flyer"]
+	path = comp/doc_flyer
+	url = https://github.com/kubicas/814d5febce6f4a1ba64f19ab1dc621b3/
+[submodule "comp/flying_start"]
+	path = comp/flying_start
+	url = https://github.com/kubicas/ed06f4318c62484fa1efca0fe97cd603/
+[submodule "comp/doc_making_cppmake"]
+	path = comp/doc_making_cppmake
+	url = https://github.com/kubicas/494f21259bb941f8804321db28f6db15/
+[submodule "comp/doc_product_backlog"]
+	path = comp/doc_product_backlog
+	url = https://github.com/kubicas/8154130935b54533bf1022a552b2ef5d/
+[submodule "comp/doc_sprint_backlog"]
+	path = comp/doc_sprint_backlog
+	url = https://github.com/kubicas/f02b3873586242698f31683269aedc89/
+[submodule "comp/scratch"]
+	path = comp/scratch
+	url = https://github.com/kubicas/cf5a21c1f73f4d3ca8db37c97d85640e/

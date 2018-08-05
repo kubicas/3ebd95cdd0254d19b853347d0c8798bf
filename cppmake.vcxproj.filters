@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\doc_assignment">
+      <UniqueIdentifier>{61e66303-cbbd-4565-9010-c355449ef07d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_flyer">
+      <UniqueIdentifier>{5671a69d-4e9c-408b-b921-91f4e4566f24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_making_cppmake">
+      <UniqueIdentifier>{87d4bad9-e643-480a-9208-3e8cccaa1928}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_product_backlog">
+      <UniqueIdentifier>{3941516f-21e9-40ca-8dee-d352c905be38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_sprint_backlog">
+      <UniqueIdentifier>{b0a188c2-c061-4177-b411-4001fa86f0f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\flying_start">
+      <UniqueIdentifier>{3dce33c7-a23c-4722-b4a2-43edcae52539}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="comp\doc_sprint_backlog\makefile.cpp">
+      <Filter>Source Files\doc_sprint_backlog</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_flyer\makefile.cpp">
+      <Filter>Source Files\doc_flyer</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\flying_start\makefile.cpp">
+      <Filter>Source Files\flying_start</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_product_backlog\makefile.cpp">
+      <Filter>Source Files\doc_product_backlog</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_assignment\makefile.cpp">
+      <Filter>Source Files\doc_assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_making_cppmake\makefile.cpp">
+      <Filter>Source Files\doc_making_cppmake</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\share000\intf\cppmake\makefile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
